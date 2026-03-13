@@ -1,1 +1,1 @@
-# secret_mangement_lab
+npm run dev
